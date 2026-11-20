@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/favourite-student-list/static/css/main.d213cf01.css",
+    "main.js": "/favourite-student-list/static/js/main.5202b56b.js",
+    "index.html": "/favourite-student-list/index.html",
+    "main.d213cf01.css.map": "/favourite-student-list/static/css/main.d213cf01.css.map",
+    "main.5202b56b.js.map": "/favourite-student-list/static/js/main.5202b56b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d213cf01.css",
+    "static/js/main.5202b56b.js"
+  ]
+}
